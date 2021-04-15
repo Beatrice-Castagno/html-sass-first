@@ -1,0 +1,24 @@
+$brand_primary: orange;
+$brand_secondary: blue;
+$brand_green: green;
+$brand_lightgrey: lightgrey;
+
+h1 {
+ color: $brand_primary;
+}
+
+h2 {
+ color: $brand_secondary;
+}
+
+h3 {
+  color: $brand_secondary
+}
+
+button {
+  color: $brand_green;
+}
+
+body {
+  background-color: $brand_lightgrey;
+}
