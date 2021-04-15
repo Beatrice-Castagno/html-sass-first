@@ -2,6 +2,7 @@ $brand_primary: orange;
 $brand_secondary: blue;
 $brand_green: green;
 $brand_lightgrey: lightgrey;
+$brand-large-btn: 16px;
 
 h1 {
  color: $brand_primary;
@@ -17,6 +18,8 @@ h3 {
 
 button {
   color: $brand_green;
+  background-color: $brand_primary;
+  font-size: $brand-large-btn;
 }
 
 body {
